@@ -1,0 +1,17 @@
+.positive {
+    color: green;
+    height: 3rem;
+    width: 3rem;
+}
+
+.negative {
+    color: red;
+    height: 3rem;
+    width: 3rem;
+}
+
+.theCount {
+    color: blue;
+    height: 3rem;
+    font-size: 2rem;
+}

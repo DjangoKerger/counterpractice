@@ -1,0 +1,17 @@
+.number {
+    color: blue;
+    height: 3rem;
+    font-size: 2rem;
+}
+
+.plus {
+    color: green;
+    height: 3rem;
+    width: 3rem;
+}
+
+.minus {
+    color: red;
+    height: 3rem;
+    width: 3rem;
+}
