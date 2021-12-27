@@ -1,3 +1,14 @@
+/* .container {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 3rem;
+}
+
+.counterBox {
+    justify-content: flex-start;
+    flex-direction: row;
+} */
+
 .positive {
     color: green;
     height: 3rem;
