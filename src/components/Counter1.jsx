@@ -15,7 +15,7 @@ const Counter1 = () => {
     }
     
     return (
-        <div>
+        <div className="counter1Container">
         <div className="number">
             {counter1}
         </div>

@@ -14,11 +14,27 @@ const Counter = () => {
     }
 
     return (
+        <div className="container">
+        <div className='counterBox'>
         <div>
             <div className="theCount"> {counter}</div>
             
             <button className="positive" onClick={increment}> + </button>
             <button className="negative" onClick={decrease}> - </button>
+        </div>
+        <div>
+            <div className="theCount"> {counter}</div>
+            
+            <button className="positive" onClick={increment}> + </button>
+            <button className="negative" onClick={decrease}> - </button>
+        </div>
+        <div>
+            <div className="theCount"> {counter}</div>
+            
+            <button className="positive" onClick={increment}> + </button>
+            <button className="negative" onClick={decrease}> - </button>
+        </div>
+        </div>
         </div>
     )
 }
